@@ -60,12 +60,12 @@ Users can apply these algorithms to the entire dataset or to selected portions o
 
 When using **Bubble Sort** with an **ArrayList**, the performance can degrade for larger datasets because of the algorithm's time complexity, which is \(O(n^2)\). Below is an example screenshot showing the Bubble Sort running on an ArrayList dataset:
 
-![Bubble Sort - ArrayList]([ArrayListxBubble](BubbleSortTime/ArrayListxBubble.png)
+![Bubble Sort - ArrayList](BubbleSortTime/ArrayListxBubble.png)
 
 
 ## 2. Bubble Sort with LinkedList
 
 The performance of **Bubble Sort** with a **LinkedList** can be even slower compared to an **ArrayList** due to the overhead associated with traversing linked nodes. This screenshot captures the performance of Bubble Sort on a LinkedList:
 
-![Bubble Sort - LinkedList]([LinkedListxBubleSOrt](BubbleSortTime/LinkedListxBubbleSOrt.png)
+![Bubble Sort - LinkedList](BubbleSortTime/LinkedListxBubbleSOrt.png)
 
