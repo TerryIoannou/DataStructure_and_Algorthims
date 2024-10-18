@@ -65,7 +65,7 @@ When using **Bubble Sort** with an **ArrayList**, the performance can degrade fo
 
 ## 2. Bubble Sort with LinkedList
 
-The performance of **Bubble Sort** with a **LinkedList** can be even slower compared to an **ArrayList** due to the overhead associated with traversing linked nodes. This screenshot captures the performance of Bubble Sort on a LinkedList:
+Bubble Sort on a LinkedList:
 
 ![Bubble Sort - LinkedList](BubbleSortTime/LinkedListxBubbleSort.png)
 
